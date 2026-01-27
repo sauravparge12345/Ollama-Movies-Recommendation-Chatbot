@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.conda/
+flagged/
+.env
+.qdrant_storage/
