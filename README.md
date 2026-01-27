@@ -4,12 +4,12 @@
 
 ## Installation
 
-Make sure you has [ollama](https://ollama.com/) installed on your computer, we will be using [qwen:7b](https://ollama.com/library/qwen:7b) as our llm.
+Make sure you has [ollama](https://ollama.com/) installed on your computer, we will be using [qwen:4b](https://ollama.com/library/qwen:4b) as our llm.
 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/cjzhi98/ollama-movie-gpt
+git clone https://github.com/sauravparge12345/Ollama-Movies-Recommendation-Chatbott
 ```
 
 2. Navigate to the project directory:
@@ -24,7 +24,7 @@ cd ollama-movie-gpt
 pip install -r requirements.txt
 ```
 
-4. Pull and run the [cjzhi98/movies-qdrant](https://hub.docker.com/repository/docker/cjzhi98/movies-qdrant/general) qdrant instance. This instance already has the movies embedding inside the collection "movies". You can see the [data_processing](https://github.com/cjzhi98/ollama-movie-gpt/tree/main/data_processing) folder for the steps to prepare the qdrant "movies" collection.
+4. You can see the [data_processing](https://github.com/sauravparge12345/Ollama-Movies-Recommendation-Chatbot/tree/main/data_processing) folder for the steps to prepare the qdrant "movies" collection.
 
 For more information, refer to the [data_processing] folder.
 
