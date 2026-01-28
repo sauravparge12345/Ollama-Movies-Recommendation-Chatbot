@@ -4,7 +4,7 @@
 
 ## Installation
 
-Make sure you has [ollama](https://ollama.com/) installed on your computer, we will be using [qwen:4b](https://ollama.com/library/qwen:4b) as our llm.
+Make sure you has [ollama](https://ollama.com/) installed on your computer, we will be using [qwen:7b](https://ollama.com/library/qwen:7b) as our llm.
 
 1. Clone the repository:
 
@@ -44,4 +44,4 @@ You can access the gradio chatbot at http://localhost:7860/
 
 ## Demo
 
-![alt text](image/image1.png)
+![alt text](image/image4.png)
