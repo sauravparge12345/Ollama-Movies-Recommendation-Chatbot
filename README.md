@@ -1,6 +1,7 @@
 # Ollama Movies Recommendation Chatbot
 
-"Ollama Movies Recommendation Chatbot" is a chatbot that uses Ollama, RAG, and Qdrant to provide personalized movie recommendations through a Gradio interface.
+The Ollama Movies Recommendation Chatbot is an AI-powered movie recommendation system built using Ollama, Retrieval-Augmented Generation (RAG), and Qdrant.
+It provides accurate, personalized movie recommendations through an easy-to-use Gradio web interface.
 
 ## Installation
 
